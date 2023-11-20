@@ -1,0 +1,20 @@
+“Saya berjanji tidak akan melakukan segala bentuk kecurangan selama mengikuti ujian berlangsung.
+Jika melanggar saya bersedia menanggung segala bentuk hukuman atas tindakan kecurangan yang saya lakukan”.
+
+1. framework dalam pengembangan aplikasi merupakan kerangka kerja atau struktur dasar yang menyediakan alat, aturan, dan bantuan untuk membangun dan mengembangkan aplikasi dengan lebih efisien.
+
+2.	1. Aplikasi Koperasi Simpan Pinjam Berbasis Web
+	2. Jobdesk dari Masing-masing Anggota:	1. Dede Khairunnisa A	(22416255201210)	"Angket, Laporan, dan Tester"
+						2. Duma Zindy Aritonang	(22416255201107)	"Developer/Program"
+						3. Fellia Haya Nafiah	(22416255201050)	"Desain UML/UI"
+	3.Permasalahan yang didapat setelah Wawancara:	1. Belum memiliki aplikasi web maupun aplikasi berbasis web.
+							2. Pengajuan Pinjaman masih Manual.
+							3. Ketidakpastian Pembayaran Angsuran. 
+							4. Manajemen Data Anggota yang Tidak Efisien
+							5. Ketidakjelasan Informasi Keuangan.
+		 Hipotesa Solusi yang akan kami usung:	1. Membuatkan Aplikasi Koperasi Simpan Pinjam Berbasis Web.
+							2. membuatkan fitur Pengajuan Pinjaman di Aplikasi web tersebut. 
+							3. Membuatkan fitur Pemberitahuan atau pengingat otomatis pada Aplikasi Web tersebut 
+							   untuk membantu anggota mengingatkan pembayaran angsuran mereka. 
+							4. Menerapkan sistem manajemen data yang terstruktur untuk memudahkan pencarian, pembaruan, dan pemeliharaan data anggota koperasi.
+							5. Menambahkan laporan keuangan yang mudah dimengerti pada aplikasi untuk membantu anggota melacak dan memahami status keuangan mereka.
